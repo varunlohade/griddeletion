@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "993228851383",
+    "firebase_url": "https://loginui-7936c.firebaseio.com",
+    "project_id": "loginui-7936c",
+    "storage_bucket": "loginui-7936c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993228851383:android:dfdb152d7062eeaa042532",
+        "android_client_info": {
+          "package_name": "com.example.griddeletion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993228851383-c9g6mkv3r39rh26ublcnqtrshgvg5913.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsAw1Yg9e-VqOyO-8XbPoljLQ5qfsrN_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993228851383-c9g6mkv3r39rh26ublcnqtrshgvg5913.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
